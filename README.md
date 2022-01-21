@@ -44,7 +44,7 @@ The analysis of the election show that:
 7. The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
- ![image]()
+ ![image](https://github.com/Jarviniazh/Module-3-Challenge-Election-Analysis/blob/main/Resources/Analysis%20results%20in%20VS%20Code.png)
 ## Election Audit Summary
 This script is a way to automate the process of tabulating the election results. With one small modification - updating the dataset file path, it will be used to audit not only other congressional district but also senatorial districts and local elections. 
 
